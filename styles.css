@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&family=Noto+Sans+JP:wght@300;400;500&family=Nunito+Sans:wght@700&family=Poppins:wght@400;500&family=Roboto:wght@300;400;500&display=swap");
+
+* {
+  margin: 0;
+}
+
+h1 {
+  margin: 20px;
+  font-family: sans-serif;
+}
+section {
+  border: 2px solid grey;
+  margin: 20px;
+  width: auto;
+}
+h2 {
+  margin: 10px;
+  font-family: sans-serif;
+}
+.inner-content {
+  display: inline-block;
+  width: 25%;
+  margin: 20px;
+  padding: 5px;
+}
+.border {
+  border: 1px solid black;
+}
+.nice-grey {
+  background-color: #f6f5f5;
+}
+.light-blue {
+  background-color: #d3e0ea;
+}
+.highlight-color {
+  background-color: #1687a7;
+}
+.highlight-color2 {
+  background-color: #276678;
+}
+.roboto {
+  font-family: "Roboto", sans-serif;
+  width: auto;
+}
+.roboto .light {
+  font-weight: 300;
+}
+.roboto .medium {
+  font-weight: 400;
+}
+.roboto .heavy {
+  font-weight: 500;
+}
+.noto-sans {
+  font-family: "Noto Sans JP", sans-serif;
+  width: auto;
+}
+.noto-sans .light {
+  font-weight: 300;
+}
+.noto-sans .medium {
+  font-weight: 400;
+}
+.noto-sans .heavy {
+  font-weight: 500;
+}
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  width: auto;
+}
+.montserrat .light {
+  font-weight: 300;
+}
+.montserrat .medium {
+  font-weight: 400;
+}
+.montserrat .heavy {
+  font-weight: 500;
+}
+.textstyles p,
+.textstyles h1,
+.textstyles h2 {
+  margin: 10px;
+}
+.textstyles h1 {
+  font-weight: 700;
+  font-size: 26px;
+  font-family: "Nunito Sans";
+}
+#text-styles-subheading {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Poppins";
+}
+.textstyles p {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: "Poppins";
+}
